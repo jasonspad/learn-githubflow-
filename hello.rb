@@ -1,1 +1,1 @@
-putsx 'Hello!'
+puts 'こんにちは'
